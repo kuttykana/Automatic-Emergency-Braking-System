@@ -78,7 +78,7 @@ Automatic-Emergency-Braking-System/
 ---
 
 ## 📷 Images
-Add images of your project setup and hardware components here in the `images` directory to provide better visualization for users.
+Images of my setup and hardware components are in the `images` directory to provide better visualization for users.
 
 ---
 
