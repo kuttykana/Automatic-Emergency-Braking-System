@@ -85,7 +85,7 @@ Contributions are welcome! Please follow the guidelines mentioned in `CONTRIBUTI
 ---
 
 ## License
-This project is released under the [MIT License](LICENSE).
+This project is released under the [Apache License](LICENSE).
 
 Feel free to contribute, modify, and use it for non-commercial purposes.
 
