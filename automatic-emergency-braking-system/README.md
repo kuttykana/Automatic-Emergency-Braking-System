@@ -17,11 +17,14 @@ The **Automatic Emergency Braking (AEB) System** is a safety project designed to
 
 ### **Prerequisites**
 Before you begin:
-- Make sure you have a **Raspberry Pi 5** setup with sufficient power.
-- Hardware components:
+- Make sure you have a **Raspberry Pi 5** set up with sufficient power.
+- **Hardware components required:**
   - **OAK-D Lite camera**
-  - Actuator for braking
-  - Any compatible motor connected to GPIO pins of the Raspberry Pi
+  - **Linear Actuator for braking**
+  - **Bidirectional Motor Driver**
+  - **USB 3.0 Cable**
+  - **Jumper Cables**
+  - **Power Supply**
 - Install **Python 3.x** on your Raspberry Pi.
 
 ### **Steps**
