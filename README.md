@@ -78,7 +78,7 @@ Automatic-Emergency-Braking-System/
 ---
 
 ## 📷 Images
-Images of my setup and hardware components are in the `images` directory to provide better visualization for users.
+Video of my setup and hardware components are in the `Video` directory to provide better visualization for users.
 
 ---
 
